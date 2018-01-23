@@ -1,0 +1,12 @@
+{
+  "name": "networkusage",
+  "version": "1.0.0",
+  "description": "network usage",
+  "main": "server.js",
+  "author": "Alex Yung",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "systeminformation": "^3.33.18"
+  }
+}
